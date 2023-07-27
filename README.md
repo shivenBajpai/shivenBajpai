@@ -11,7 +11,7 @@
 ### ✅ Completed Projects 
  - [Slay](https://github.com/shivenBajpai/Slay), A Recreation of a classic singleplayer game from the 1990s, Adapted to be a multiplayer game. Built from scratch using python and pygame
 
-### 📝 Read my Blog at [shivenBajpai.github.io](shivenBajpai.github.io)
+### 📝 Read my Blog at [shivenBajpai.github.io](https://shivenBajpai.github.io)
 
 ### 📫 Contact me 
  - **discord:** @hyperboolean
