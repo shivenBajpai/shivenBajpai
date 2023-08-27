@@ -16,7 +16,7 @@
 ### 📫 Contact me 
  - **discord:** @hyperboolean
  - **mail:** [shiven.bajpai@gmail.com](mailto:shiven.bajpai@gmail.com) 
- - **instagram:** [@shivenbajpai007](https://instagram.com/shivenbajpai007) 
+ - **instagram:** [@shivenbajpai](https://instagram.com/shivenbajpai) 
 
 <hr>
 
