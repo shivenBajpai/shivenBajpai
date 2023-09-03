@@ -1,6 +1,9 @@
 <h1 align="center">Ahoy, I'm Shiven</h1>
 <h3 align="center">A passionate high school student-developer from India</h3>
 
+> **Note**
+> I am now in the year of studying for my college Entrance Exams and am going to be inactive, I will return sometime in 2024 Q3...
+
 ### ⚙️ Active Projects 
  - [ACAS](https://github.com/shivenBajpai/ACAS-tech-demo), A Library and supporting Tooling that allows for generation of sprites for 2D games at runtime and simplifies complex animation, Built in Rust
 
