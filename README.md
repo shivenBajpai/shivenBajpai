@@ -1,25 +1,25 @@
 <h1 align="center">Ahoy, I'm Shiven</h1>
-<h3 align="center">A passionate high school student-developer from India</h3>
-
-> **Note**
-> I am now in the year of studying for my college Entrance Exams and am going to be inactive, I will return sometime in 2024 Q3...
+<h3 align="center">A passionate student-developer from India</h3>
 
 ### ⚙️ Active Projects 
- - [ACAS](https://github.com/shivenBajpai/ACAS-tech-demo), A Library and supporting Tooling that allows for generation of sprites for 2D games at runtime and simplifies complex animation, Built in Rust
+ - Currently working on Polishing up my [RISC-V Simulator](https://github.com/shivenBajpai/RISC-V-Simulator)
 
 ### 🔍 I’m currently looking into
- - Rust
+ - Machine Learning
  - Image Manipulation
 
 ### ✅ Completed Projects 
  - [Slay](https://github.com/shivenBajpai/Slay), A Recreation of a classic singleplayer game from the 1990s, Adapted to be a multiplayer game. Built from scratch using python and pygame
+ - A Risc-V [Assembler](https://github.com/shivenBajpai/RISC-V-Assembler) and [Simulator](https://github.com/shivenBajpai/RISC-V-Simulator) capable of full RV64I Support and Caching simulation, made as a project for a course in college. 
+ - An [ASCII-Art Filter](https://github.com/rayanry9/ASCII-Renderer) that runs on your live camera feed in your browser using WebGL. 
+ - [Anonymia](https://github.com/shivenBajpai/MilanLambdaHackathon/), A site for college community members to meet new people in a novel way.
 
 ### 📝 Read my Blog at [shivenBajpai.github.io](https://shivenBajpai.github.io)
+(Content coming soon...)
 
 ### 📫 Contact me 
  - **discord:** @hyperboolean
  - **mail:** [shiven.bajpai@gmail.com](mailto:shiven.bajpai@gmail.com) 
- - **instagram:** [@shivenbajpai](https://instagram.com/shivenbajpai) 
 
 <hr>
 
@@ -35,6 +35,9 @@
 <a href="https://www.gimp.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/> </a> 
 <a href="https://www.pygame.org/wiki/about" target="_blank" rel="noreferrer"> <img src="https://www.pygame.org/ftp/pygame-head-party.png" alt="pygame" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/latex/latex-original.svg" alt="express" width="40" height="40"/> </a> 
 </p>
 
 <b align="left">Other Things I have played around with:</b>
@@ -45,10 +48,9 @@
 <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> 
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/Style/CSS/Overview.en.html target=" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a> 
-<a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg" alt="pandas" width="40" height="40"/> </a> 
 </p>
 
 
